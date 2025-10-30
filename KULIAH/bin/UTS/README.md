@@ -1,7 +1,7 @@
 
 # Tugas UTS 
 
-Repositori ini dibuat untuk memenuhi pelaksanaan Ujian Tengah Semester (UTS) dari mata kuliah **Pemrograman Mobile**.
+Dibuat untuk memenuhi pelaksanaan Ujian Tengah Semester (UTS) dari mata kuliah **Pemrograman Mobile**.
 
 ---
 
