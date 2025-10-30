@@ -12,6 +12,6 @@ Dibuat untuk memenuhi pelaksanaan Ujian Tengah Semester (UTS) dari mata kuliah *
 
 ---
 
-###  Link Video Presentasi
+###  Link Video
 Berikut link video YouTube-nya:  
 👉(https://youtube.com/live/0UIpoiT4lmo?feature=share)
